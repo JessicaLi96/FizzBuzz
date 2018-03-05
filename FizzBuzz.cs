@@ -28,7 +28,7 @@ namespace ConsoleApp2
                 }
                 else { Console.WriteLine(i); }
 
-
+                //hello 
             }
             Console.ReadLine();
         }
